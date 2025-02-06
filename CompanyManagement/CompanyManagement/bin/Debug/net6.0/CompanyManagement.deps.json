@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CompanyManagement/1.0.0": {
+        "runtime": {
+          "CompanyManagement.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CompanyManagement/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

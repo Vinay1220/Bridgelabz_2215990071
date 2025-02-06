@@ -1,0 +1,14 @@
+C:\Users\Prashant\Desktop\CAP_ASS\Feature_06-02-2025\UniversityManagemen\UniversityManagemen\bin\Debug\net6.0\UniversityManagemen.exe
+C:\Users\Prashant\Desktop\CAP_ASS\Feature_06-02-2025\UniversityManagemen\UniversityManagemen\bin\Debug\net6.0\UniversityManagemen.deps.json
+C:\Users\Prashant\Desktop\CAP_ASS\Feature_06-02-2025\UniversityManagemen\UniversityManagemen\bin\Debug\net6.0\UniversityManagemen.runtimeconfig.json
+C:\Users\Prashant\Desktop\CAP_ASS\Feature_06-02-2025\UniversityManagemen\UniversityManagemen\bin\Debug\net6.0\UniversityManagemen.dll
+C:\Users\Prashant\Desktop\CAP_ASS\Feature_06-02-2025\UniversityManagemen\UniversityManagemen\bin\Debug\net6.0\UniversityManagemen.pdb
+C:\Users\Prashant\Desktop\CAP_ASS\Feature_06-02-2025\UniversityManagemen\UniversityManagemen\obj\Debug\net6.0\UniversityManagemen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Prashant\Desktop\CAP_ASS\Feature_06-02-2025\UniversityManagemen\UniversityManagemen\obj\Debug\net6.0\UniversityManagemen.AssemblyInfoInputs.cache
+C:\Users\Prashant\Desktop\CAP_ASS\Feature_06-02-2025\UniversityManagemen\UniversityManagemen\obj\Debug\net6.0\UniversityManagemen.AssemblyInfo.cs
+C:\Users\Prashant\Desktop\CAP_ASS\Feature_06-02-2025\UniversityManagemen\UniversityManagemen\obj\Debug\net6.0\UniversityManagemen.csproj.CoreCompileInputs.cache
+C:\Users\Prashant\Desktop\CAP_ASS\Feature_06-02-2025\UniversityManagemen\UniversityManagemen\obj\Debug\net6.0\UniversityManagemen.dll
+C:\Users\Prashant\Desktop\CAP_ASS\Feature_06-02-2025\UniversityManagemen\UniversityManagemen\obj\Debug\net6.0\refint\UniversityManagemen.dll
+C:\Users\Prashant\Desktop\CAP_ASS\Feature_06-02-2025\UniversityManagemen\UniversityManagemen\obj\Debug\net6.0\UniversityManagemen.pdb
+C:\Users\Prashant\Desktop\CAP_ASS\Feature_06-02-2025\UniversityManagemen\UniversityManagemen\obj\Debug\net6.0\UniversityManagemen.genruntimeconfig.cache
+C:\Users\Prashant\Desktop\CAP_ASS\Feature_06-02-2025\UniversityManagemen\UniversityManagemen\obj\Debug\net6.0\ref\UniversityManagemen.dll

@@ -1,0 +1,14 @@
+C:\Users\Prashant\Desktop\CAP_ASS\Feature_06-02-2025\EcommerecePlateform\EcommerecePlateform\obj\Debug\net6.0\EcommerecePlateform.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Prashant\Desktop\CAP_ASS\Feature_06-02-2025\EcommerecePlateform\EcommerecePlateform\obj\Debug\net6.0\EcommerecePlateform.AssemblyInfoInputs.cache
+C:\Users\Prashant\Desktop\CAP_ASS\Feature_06-02-2025\EcommerecePlateform\EcommerecePlateform\obj\Debug\net6.0\EcommerecePlateform.AssemblyInfo.cs
+C:\Users\Prashant\Desktop\CAP_ASS\Feature_06-02-2025\EcommerecePlateform\EcommerecePlateform\obj\Debug\net6.0\EcommerecePlateform.csproj.CoreCompileInputs.cache
+C:\Users\Prashant\Desktop\CAP_ASS\Feature_06-02-2025\EcommerecePlateform\EcommerecePlateform\bin\Debug\net6.0\EcommerecePlateform.exe
+C:\Users\Prashant\Desktop\CAP_ASS\Feature_06-02-2025\EcommerecePlateform\EcommerecePlateform\bin\Debug\net6.0\EcommerecePlateform.deps.json
+C:\Users\Prashant\Desktop\CAP_ASS\Feature_06-02-2025\EcommerecePlateform\EcommerecePlateform\bin\Debug\net6.0\EcommerecePlateform.runtimeconfig.json
+C:\Users\Prashant\Desktop\CAP_ASS\Feature_06-02-2025\EcommerecePlateform\EcommerecePlateform\bin\Debug\net6.0\EcommerecePlateform.dll
+C:\Users\Prashant\Desktop\CAP_ASS\Feature_06-02-2025\EcommerecePlateform\EcommerecePlateform\bin\Debug\net6.0\EcommerecePlateform.pdb
+C:\Users\Prashant\Desktop\CAP_ASS\Feature_06-02-2025\EcommerecePlateform\EcommerecePlateform\obj\Debug\net6.0\EcommerecePlateform.dll
+C:\Users\Prashant\Desktop\CAP_ASS\Feature_06-02-2025\EcommerecePlateform\EcommerecePlateform\obj\Debug\net6.0\refint\EcommerecePlateform.dll
+C:\Users\Prashant\Desktop\CAP_ASS\Feature_06-02-2025\EcommerecePlateform\EcommerecePlateform\obj\Debug\net6.0\EcommerecePlateform.pdb
+C:\Users\Prashant\Desktop\CAP_ASS\Feature_06-02-2025\EcommerecePlateform\EcommerecePlateform\obj\Debug\net6.0\EcommerecePlateform.genruntimeconfig.cache
+C:\Users\Prashant\Desktop\CAP_ASS\Feature_06-02-2025\EcommerecePlateform\EcommerecePlateform\obj\Debug\net6.0\ref\EcommerecePlateform.dll

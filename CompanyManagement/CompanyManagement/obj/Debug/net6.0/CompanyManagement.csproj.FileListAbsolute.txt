@@ -1,0 +1,14 @@
+C:\Users\Prashant\Desktop\CAP_ASS\Feature_06-02-2025\CompanyManagement\CompanyManagement\bin\Debug\net6.0\CompanyManagement.exe
+C:\Users\Prashant\Desktop\CAP_ASS\Feature_06-02-2025\CompanyManagement\CompanyManagement\bin\Debug\net6.0\CompanyManagement.deps.json
+C:\Users\Prashant\Desktop\CAP_ASS\Feature_06-02-2025\CompanyManagement\CompanyManagement\bin\Debug\net6.0\CompanyManagement.runtimeconfig.json
+C:\Users\Prashant\Desktop\CAP_ASS\Feature_06-02-2025\CompanyManagement\CompanyManagement\bin\Debug\net6.0\CompanyManagement.dll
+C:\Users\Prashant\Desktop\CAP_ASS\Feature_06-02-2025\CompanyManagement\CompanyManagement\bin\Debug\net6.0\CompanyManagement.pdb
+C:\Users\Prashant\Desktop\CAP_ASS\Feature_06-02-2025\CompanyManagement\CompanyManagement\obj\Debug\net6.0\CompanyManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Prashant\Desktop\CAP_ASS\Feature_06-02-2025\CompanyManagement\CompanyManagement\obj\Debug\net6.0\CompanyManagement.AssemblyInfoInputs.cache
+C:\Users\Prashant\Desktop\CAP_ASS\Feature_06-02-2025\CompanyManagement\CompanyManagement\obj\Debug\net6.0\CompanyManagement.AssemblyInfo.cs
+C:\Users\Prashant\Desktop\CAP_ASS\Feature_06-02-2025\CompanyManagement\CompanyManagement\obj\Debug\net6.0\CompanyManagement.csproj.CoreCompileInputs.cache
+C:\Users\Prashant\Desktop\CAP_ASS\Feature_06-02-2025\CompanyManagement\CompanyManagement\obj\Debug\net6.0\CompanyManagement.dll
+C:\Users\Prashant\Desktop\CAP_ASS\Feature_06-02-2025\CompanyManagement\CompanyManagement\obj\Debug\net6.0\refint\CompanyManagement.dll
+C:\Users\Prashant\Desktop\CAP_ASS\Feature_06-02-2025\CompanyManagement\CompanyManagement\obj\Debug\net6.0\CompanyManagement.pdb
+C:\Users\Prashant\Desktop\CAP_ASS\Feature_06-02-2025\CompanyManagement\CompanyManagement\obj\Debug\net6.0\CompanyManagement.genruntimeconfig.cache
+C:\Users\Prashant\Desktop\CAP_ASS\Feature_06-02-2025\CompanyManagement\CompanyManagement\obj\Debug\net6.0\ref\CompanyManagement.dll
