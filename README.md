@@ -23,4 +23,4 @@
 23. Completed today's Linear Search and String builder assignment and uploded Feature_16-02-2025
 24. algorithm assignment uploded Feature_17-02-2025
 25. Generic class and methods uploded Feature_18-02-2025
-
+26. Collections Assignment Completed and uploaded Feature_19-02-2025
