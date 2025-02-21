@@ -25,3 +25,4 @@
 25. Generic class and methods uploded Feature_18-02-2025
 26. Collections Assignment Completed and uploaded Feature_19-02-2025
 27. Stream Assignment completed and uploaded Feature_20-02-2025
+28. Exception Handling Completed and uploaded Feature_21-02-2025
